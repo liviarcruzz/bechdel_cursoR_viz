@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Sobre o blog",
+      "description": "Meu nome é Lívia Cruz e esse é um blog sobre o que aprendi de Bechdel Test com um tiquinho do que aprendi no curso de Visualização de dados e Relatórios da Curso-R :)",
+      "author": [],
+      "contents": "\r\nOs dados utilizados nos posts são da FiveThirtyEight e estão disponíveis aqui\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-12T23:52:07-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Bechdel Test para 'Curso-R Visualização'",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-12T23:52:08-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
