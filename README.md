@@ -11,4 +11,5 @@ This repository contains the codes and data I used to build a blog as the final 
 I've chosen to use the {distill} package and build a blog, which I found more challenging then the other report formats and more doable within the time I had than using {blogdown}, which is much more complex. 
 I really enjoyed the process! 
 
-# The blog: https://bechdel-liviacruz.netlify.app/
+# The blog: 
+https://bechdel-liviacruz.netlify.app/
