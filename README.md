@@ -7,6 +7,6 @@ O processo foi bastante divertido, no fim das contas!
 
 # Final project  - CursoR DataViz and Reports 
 
-This repository contains the codes and data I used to build a blog as a final project to the course on DataViz and Reports from 'CursoR'. We were supposed to use the data from #TiduTuesday week 11, on Bechdel Test, and produce any report format using the DataViz tools we explored thoughout the course.
+This repository contains the codes and data I used to build a blog as the final project of the course on DataViz and Reports from 'CursoR'. We were supposed to use the data from #TiduTuesday week 11, on Bechdel Test, and produce any report format using the DataViz tools we explored thoughout the course.
 I've chosen to use the {distill} package and build a blog, which I found more challenging then the other report formats and more doable within the time I had than using {blogdown}, which is much more complex. 
 I really enjoyed the process! 
